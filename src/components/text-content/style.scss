@@ -1,0 +1,35 @@
+.text-content-wrapepr {
+  width: 100%;
+  max-width: 660px;
+  h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 20px;
+  }
+  strong {
+    text-decoration: underline;
+    color: #e1261c;
+  }
+  .image-wrapper {
+    margin: 40px 0 20px;
+    display: flex;
+    justify-content: space-between;
+    h2 {
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 35px;
+      margin-bottom: 20px;
+    }
+  }
+  ul.list {
+    li {
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 30px;
+      li.child-list-item {
+        margin-left: 14px;
+      }
+    }
+  }
+}

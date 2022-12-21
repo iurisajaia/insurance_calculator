@@ -1,0 +1,5 @@
+export const MAX_INSURENCE_DURATION_TUBERCULOSIS = 240;
+export const MAX_INSURENCE_DURATION = 182;
+export const EMPLOYER_DAYS_START = 4;
+export const EMPLOYER_DAYS_END = 8;
+export const WORKING_DAYS = 20;
